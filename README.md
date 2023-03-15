@@ -67,7 +67,7 @@ N/A yet.
 
 # RELEASES:
 
-This project releases both the English (EN) and Portuguese (PT-BR) versions of the game in it final executable .TAP file which can be played via a Sinclair ZX Spectrum emulator and / or on a real compatible machine.
+This project releases both the English (EN) and Portuguese (PT-BR) versions of the game in its final executable .TAP file which can be played via a Sinclair ZX Spectrum emulator and / or on a real compatible machine.
 
 # AUTHORS:
 
