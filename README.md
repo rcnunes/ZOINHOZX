@@ -49,9 +49,9 @@ Just build file Zoinho.asm, all dependencies are defined in this file's include 
 
 To build the whole executable, including the BASIC loader and loading screen, you will have to stitch all 3 following .TAP files together in a single .TAP file:
 
-. zoinho-BASIC-loader.tap
-. ZoinhoLoadingScreen.tap
-. Zoinho.tap
+zoinho-BASIC-loader.tap
+ZoinhoLoadingScreen.tap
+Zoinho.tap
 
 NB: Application "ZX-BlockEdit" can be used to stitch all these .TAP files together in the given sequence.
 
