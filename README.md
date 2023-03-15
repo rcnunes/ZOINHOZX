@@ -1,7 +1,7 @@
 # PROJECT:
 ZOINHO - IN THE GARDEN OF FOOLS
 
-# PROJECT:  
+# SHORT DESCRIPTION:  
 
 "Zoinho - In The Garden of Fools" is a homebrew free game for 8 bit computers based on or compatible with the Sinclair ZX Spectrum 48K.
 
