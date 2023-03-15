@@ -39,7 +39,7 @@ NB: Unfortunately, it seems Claus Jahn has stopped maintaining his suite of tool
 
 # DEPLOYMENT:
 
-This version provides all the source code (both EN and PT-BR versions), raw assets and executables.
+This deployment provides all the source code (both EN and PT-BR versions), raw assets and executables.
 
 NB: Versions differ only by file ../resources/TextsData_I01.asm which defines all texts.
 
