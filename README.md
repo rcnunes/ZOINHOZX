@@ -39,7 +39,9 @@ NB: Unfortunately, it seems Claus Jahn has stopped maintaining his suite of tool
 
 # DEPLOYMENT:
 
-This version provides all the source code, raw assets and executables.
+This version provides all the source code (both EN and PT-BR versions), raw assets and executables.
+
+NB: Versions differ only by file ../resources/TextsData_I01.asm which defines all texts.
 
 # BUILD WITH:
 
@@ -62,6 +64,10 @@ N/A yet.
 # VERSIONING:
 
 1.0.0 - initial release
+
+# RELEASES:
+
+This project releases both the English (EN) and Portuguese (PT-BR) versions of the game in it final executable .TAP file which can be played via a Sinclair ZX Spectrum emulator and / or on a real compatible machine.
 
 # AUTHORS:
 
