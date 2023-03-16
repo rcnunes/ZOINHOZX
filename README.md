@@ -35,7 +35,7 @@ If you want to edit raw graphical assets, I suggest you should install the whole
 
 If you want to edit tape format files (.TAP), you will also need to install "ZX-Edit" and "ZX-BlockEdit" from Claus Jahn.
 
-NB: Unfortunately, it seems Claus Jahn has stopped maintaining his suite of tools and its host web page. You will have to look for copies of it in Sinclair ZX Spectrum related web repositories.
+NB: Unfortunately, it seems Claus Jahn has stopped maintaining his suite of tools and its host web page. You will have to look for copies of it elsewhere in Sinclair ZX Spectrum related web repositories.
 
 # DEPLOYMENT:
 
