@@ -45,7 +45,7 @@ NB: Versions differ only by file ../resources/TextsData_I01.asm which defines al
 
 # BUILD WITH:
 
-To build the whole source code you should copy and paste the main folder including its resources sub-folder.
+To build the whole source code you should download the whole source-code folder, including its resources sub-folder.
 
 Just build file Zoinho.asm, all dependencies are defined in this file's include statement list. The resulting build (Zoinho.tap) should contain the entire game.
 
