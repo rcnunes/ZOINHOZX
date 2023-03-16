@@ -33,7 +33,7 @@ You should install "PASMO Z80 ASSEMBLER" by (C) 2004-2022 Julian Albo (https://p
 
 If you want to edit raw graphical assets, I suggest you should install the whole suite of applications from Claus Jahn, or at least the application "ZX-PaintBrush".
 
-If you want to edit tape format files (.TAP), you will also need to install "ZX-PaintBrush", "ZX-Edit" and "ZX-BlockEdit" from Claus Jahn too.
+If you want to edit tape format files (.TAP), you will also need to install "ZX-Edit" and "ZX-BlockEdit" from Claus Jahn too.
 
 NB: Unfortunately, it seems Claus Jahn has stopped maintaining his suite of tools and its host web page. You will have to look for copies of it in Sinclair ZX Spectrum related web repositories.
 
